@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buraksaracc
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on react native <3
+- 🌱 I’m currently learning Vue js, Angular js, Express js.
+- 💞️ I’m looking to collaborate on mobile and web development.
 - 📫 How to reach me buraaksarac@gmail.com
 
 <!---
